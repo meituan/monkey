@@ -1,0 +1,14 @@
+{
+    "payTimeLeft": 282681,
+    "showAlipay": true,
+    "showTenpay": true,
+    "showCmpay": false,
+    "showUpop": true,
+    "showBank": true,
+    "payType": "credit_abc",
+    "orderid": "1418712434935221",
+    "orderTotal": 153.3,
+    "breadNav": "atom:///ktv/breadNav.json",
+    "bankList": "atom:///bankList.json",
+    "order": "atom:///ktv/order.json"
+}

@@ -1,0 +1,41 @@
+{
+    "orderSkuViews": [
+        {
+            "orderSkuPoiView": {
+                "name": "爆米花量贩式KTV",
+                "frontImg": "http://p0.meituan.net/deal/__13246341__8025475.jpg",
+                "avgScore": 4.4,
+                "markNumber": 4285
+            },
+            "allowTime": 420,
+            "latestArrivalTime": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+            "latestRefundTime": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+            "capacityMin": 6,
+            "capacityMax": 8,
+            "roomTypeName": "中房",
+            "roomId": 2022,
+            "createTime": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+            "endTime": "06:00",
+            "bookTime": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+            "modifyTime": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+            "phone": "15201459784",
+            "arrivalTime": "@DATETIME('HH:mm')",
+            "roomTypeId": 53,
+            "poiId": "@ID",
+            "saleDate": "@DATETIME('yyyy-MM-dd')",
+            "roomCount": 1,
+            "allowRefund": 0,
+            "startTime": "@DATETIME('HH:mm')",
+            "poiAddress": "西直门北大街28号院7号楼天方饭店旁1-2层",
+            "poiPhone": "010-62243098/58426666"
+        }
+    ],
+    "createTime": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+    "modifyTime": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+    "userid": "@ID",
+    "price": 223.3,
+    "payDeadline": "@DATETIME('yyyy-MM-dd HH:mm:ss')",
+    "orderNo": "@ID",
+    "status|0-10": 0,
+    "amount": 1
+}

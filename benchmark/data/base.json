@@ -1,0 +1,42 @@
+{
+    "errmsg": null,
+    "okmsg": null,
+    "isLogin": "@BOOLEAN",
+    "loginUser": {
+        "userinfo": null,
+        "userhash": null,
+        "payhash": null,
+        "useCache": "@BOOLEAN",
+        "refreshCache": "@BOOLEAN",
+        "isLoad": "@BOOLEAN"
+    },
+    "loginUserID": "@ID",
+    "serviceNumText": "400-660-5335",
+    "serviceNum": "4006605335",
+    "hasCookie": "@BOOLEAN",
+    "noSms": "@BOOLEAN",
+    "city": {
+        "id": 1,
+        "name": "北京",
+        "slug": "beijing",
+        "online": 1267632000,
+        "firstalpha": "bj",
+        "rank": "S"
+    },
+    "city_info_used_for_front": {
+        "id": 1,
+        "name": "北京",
+        "slug": "beijing",
+        "online": 1267632000,
+        "firstalpha": "bj",
+        "rank": "S"
+    },
+    "isUcweb": "@BOOLEAN",
+    "isUCHtml5": "@BOOLEAN",
+    "isQQBrowser": "@BOOLEAN",
+    "needSmsMO": "@BOOLEAN",
+    "needNoSms": "@BOOLEAN",
+    "userdev": "",
+    "istouch": "@BOOLEAN",
+    "isFromWeixin": "@BOOLEAN"
+}

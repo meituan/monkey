@@ -1,0 +1,21 @@
+[
+    { "name": "北京休闲娱乐", "link": "http://example.com/shops/xiuxianyule", "type": "index" },
+    {
+        "name": "海淀区",
+        "link": "http://example.com/shops/xiuxianyule/haidianqu",
+        "type": "area/1"
+    },
+    {
+        "name": "北下关",
+        "link": "http://example.com/shops/xiuxianyule/beixiaguan",
+        "type": "area/2"
+    },
+    {
+        "name": "休闲娱乐",
+        "link": "http://example.com/shops/xiuxianyule/beixiaguan",
+        "type": "category/1"
+    },
+    { "name": "KTV", "link": "http://example.com/shops/ktv/beixiaguan", "type": "category/2" },
+    { "name": "爆米花量贩式KTV", "link": "/shop/1041138", "type": "category/3" },
+    { "name": "在线预订" }
+]

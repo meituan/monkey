@@ -1,0 +1,6 @@
+{
+    "price": 223.3,
+    "type|1": ["BOOK_SUCCESS", "BOOK_FAIL", "NO_RESPONSE"],
+    "breadNav": "atom:///ktv/breadNav.json",
+    "order": "atom:///ktv/order.json"
+}

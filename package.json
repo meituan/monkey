@@ -1,0 +1,39 @@
+{
+  "name": "monkeyjs",
+  "version": "3.6.1",
+  "description": "Monkey backend: Data mapping system",
+  "main": "index.js",
+  "scripts": {
+    "debug": "./node_modules/.bin/mocha --debug-brk --require should test",
+    "test": "./node_modules/.bin/mocha --require should test",
+    "test-cov": "./node_modules/.bin/istanbul cover ./node_modules/.bin/_mocha -- --require should test",
+    "benchmark": "node ./benchmark/benchmark.js"
+  },
+  "bin": {
+    "mock": "bin/cli.js"
+  },
+  "files": [
+    "bin/",
+    "index.js"
+  ],
+  "repository": "meituan/monkey",
+  "keywords": [
+    "mock"
+  ],
+  "author": "zhongchiyu",
+  "license": "MIT",
+  "devDependencies": {
+    "istanbul": "^0.3.5",
+    "mocha": "^2.0.1",
+    "should": "^4.3.1",
+    "temp": "^0.8.1"
+  },
+  "dependencies": {
+    "mock-locator": "^3.0.0",
+    "mock-request2": "^1.0.0",
+    "mock-response": "^3.2.1",
+    "debug": "^2.1.0",
+    "handlebars": "^2.0.0",
+    "lodash": "^2.4.1"
+  }
+}
