@@ -39,7 +39,7 @@ Below is a example of use `mock` to find simulate data match uri `/deal/123456`.
         "method": "POST",
     });
     
-`data` will be the content of file `./data-dir/deal/123456.POST.json` if it's exists.
+`data` will be the content of file `./data-dir/deal/123456.POST.json` if it exists.
 
 ### API
 
